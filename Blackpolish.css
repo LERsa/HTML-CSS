@@ -1,3 +1,26 @@
+body{
+    background-color: black;
+}
+
 h1 {
 	color: gray; 
+}
+
+button{ 
+	color: white;
+    background-color: red;
+    font-size: large;
+    position: relative;	
+}
+
+p {
+   color: gray;
+   font-size: large; 
+}
+
+.Welcome{
+   color: white;
+}
+h3{
+  color:white;
 }
