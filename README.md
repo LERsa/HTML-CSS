@@ -4,7 +4,7 @@
 	<title>BLACKPOLISH</title>
 	<link rel="stylesheet" href="https://github.com/LERsa/HTML-CSS/blob/%D1%82%D0%B5%D1%81%D1%82/Blackpolish.css">
 </head>
-<body>
+<body bgcolor="black">
 <h1>BLACKPOLISH</h1>   
 <button>HOMEPAGE</button> 
 <p align="right">SERVICES</p>
